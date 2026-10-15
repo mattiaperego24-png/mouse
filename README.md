@@ -21,7 +21,7 @@ Make sure you have Python installed. You will need to install the required libra
 1. Clone this repository to your local machine.
 2. Ensure the `hand_landmarker.task` file is in the same directory as the script.
 3. Run the Python file:
-   `python nome_del_tuo_file.py` *(Change this to your actual file name)*
+   `topo.py` 
 4. Keep your hands in the webcam's view and start controlling your PC!
 
 ## 🧠 Explore the Code
